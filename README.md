@@ -25,14 +25,17 @@ The objective is to examine key trends in transaction volumes, agent network exp
 
 ### 1. Growth of Mobile Payment Transaction Value
 ![Transaction Value Growth](Visuals/Chart 1.png)
+
 *Figure 1: Monthly cash-in/cash-out transaction values in KSh Billions (2007–2026) showing strong post-2020 acceleration.*
 
 ### 2. Infrastructure Expansion: Agents vs. Registered Accounts
 ![Agent Network Expansion](Visuals/Chart 2.png)
+
 *Figure 2: Scaling relationship between active agent outlets and total registered accounts (Millions).*
 
 ### 3. Evolution of Average Transaction Size
 ![Average Transaction Size](Visuals/Chart 3.png)
+
 *Figure 3: Estimated average value per transaction (KSh) showing structural shifts in consumer usage over time.*
 
 ---
